@@ -15,3 +15,20 @@ Du fragst dich wie du mehr Sicherheit bei deinen Geräten erlangst? Ich habe sch
 6. Kauf dir nen Raspberry Pi (4+ reicht vollkommen wenn du noch eine bekommst) und installiere PiHole, konfiguriere unbound und aktiviere DNSSec / DNS over HTTPS
 7. Verschlüssel möglichst jeden Datenverkehr. Beim Instant Messenger, baim mailen, beim surfen (https Pflicht, wer es nicht hat gehört nicht besucht. Siehe 4.)
 8. Besorg dir ein gutes E-Mailpostfach bei einem guten Anbieter (z.B. Posteo, Protonmail oder mailbox.org) 
+
+**Gute Quellen:
+* [Kuketz Blog](www.kuketz-blog.de)
+* [Morpheus Tutorials](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
+* [Heise Security](*https://www.heise.de/security/*)
+* [Netzpolitik](https://netzpolitik.org)
+* [ZDnet Security](https://www.zdnet.de/kategorie/security/)
+
+**Heimnetze | Homelabs
+* [SemperVideo](https://www.youtube.com/channel/UCCI6C8hD-hTZi2JEmS7zvQw) (für Basics und zum schmunzeln)
+* [teqqyde](https://www.youtube.com/channel/UCnBQ7GosWO57aTpm2wR7Q7Q)
+* [Raspberry Pi Cloud](https://www.youtube.com/channel/UC_76XFUys5fTO7u_HqrD7aA) Auch wenn er pfsense user ist, aber Niemand ist perfekt :-D
+
+**Coole Inputs & Webinare (Fachwissen unbedingt notwendig)
+* [Morpheus Tutorials](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
+* [Thomas Krenn](https://www.youtube.com/user/ThomasKrenn)
+* [Christian Zengel](https://www.youtube.com/user/sysopstv) 
