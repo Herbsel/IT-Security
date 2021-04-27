@@ -8,7 +8,7 @@ Du fragst dich wie du mehr Sicherheit bei deinen Geräten erlangst? Ich habe sch
 
 1. Nutze möglichst überall zwei Faktor Authentifizierung. Und das ganze per Fido2 Stick (z.B. dem Yubikey)
   * Bei Spotify, Amazon, Github, eurem Mailaccount, zur Anmeldung am Betriebssystem, per SSH Key für SSH Verbindungen zu deinen Services (z.B. PiHole) etc.
-2. Schalte deine Tastentöne am Handy ab. Denn ja sie können abgehört werden und auf das getippe zurück schließen
+2. Schalte deine Tastentöne am Handy ab. Denn ja sie können abgehört werden und auf das getippte zurück schließen
 3. Deinstalliere deinen Virenscanner. What denkst du? Security und Virenscanner abschalten? Dazu folgt ein Blogbeitrag
 4. Nutze eine richtige Firewall (OPNSense), stell die Fri----ox in die Ecke. Basics macht sie gut, aber nichts wirklich richtig gut. Ähnlich wie ich :-D
   * Sperr am besten gleich den ganzen ausgehenden Traffic auf Port 80 :-;
